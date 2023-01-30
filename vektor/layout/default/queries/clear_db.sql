@@ -1,0 +1,11 @@
+drop table if exists promo;
+drop table if exists rescue;
+drop table if exists teachers;
+drop table if exists timetable;
+drop table if exists transactions;
+drop table if exists users;
+drop table if exists seminar;
+drop table if exists admins;
+drop table if exists links;
+drop table if exists music;
+drop table if exists videos;

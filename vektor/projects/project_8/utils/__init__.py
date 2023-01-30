@@ -1,0 +1,1 @@
+from .set_bot_default_command import set_default_command

@@ -1,0 +1,8 @@
+from .create_results import create_result_msg_keyboard
+from .get_result_photo import get_result_photo_dt, get_photo_result
+from .get_result_gif import get_gif_result, get_result_gif_dt
+from .get_result_video import get_video_result, get_result_video_dt
+from .get_result_audio import get_audio_result, get_result_audio_dt
+from .get_result_voice import get_result_voice_dt, get_voice_result
+from .get_result_video_note import get_video_note_result, get_result_video_note_dt
+from .get_result_document import get_document_result, get_result_document_dt

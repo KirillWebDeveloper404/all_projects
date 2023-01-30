@@ -1,0 +1,1 @@
+/root/vektor/venv/bin/python /root/vektor/projects/project_8/app.py
